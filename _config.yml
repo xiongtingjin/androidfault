@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: AndroidFault
+subtitle: Android开发疑难杂症
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+description: 一个android程序员的自白.
+creator: 
 
-url: "http://vno.onevcat.com"
+url: ""
 
 permalink: /:year/:month/:title/
 
