@@ -1,9 +1,9 @@
 # Basic
 title: AndroidFault
 subtitle: Android开发疑难杂症
-welcome_message: 
+welcome_message: 生活不止眼前的苟且
 description: 一个Android程序员的自白
-creator: 熊胡子Beard
+creator: Beard
 
 url: ""
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: green
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
