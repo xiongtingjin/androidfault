@@ -1,9 +1,9 @@
 # Basic
 title: AndroidFault
 subtitle: Android开发疑难杂症
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: 一个android程序员的自白.
-creator: 
+welcome_message: 
+description: 一个Android程序员的自白
+creator: 熊胡子Beard
 
 url: ""
 
@@ -22,7 +22,6 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +36,7 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: xiongtingjin@gmail.com
 
 # Google Analytics
 ga:
