@@ -16,7 +16,7 @@ date: 2017-05-22 14:50:20
 
 > * 如果从不同应用启动一个singleTask的activity，刚依赖于此activity所在的栈，如果之前没有运行过，则新建栈处于栈底，如果有运行过，则有可能不在栈底。假设apkA是情况一中的应用，apkB是另外一个测试程序，在apkB中启动apkA中的ActivityB，再分两种情况，如果ActivityB未启动过，刚ActivityB会位于栈底，是根元素，会启动新的task；如果ActivityB启动过，则ActivityB保持原来的位置不变，在栈底或者栈顶，移除掉ActivityB之上所有的activity(如果有)
 
-<img src="/assets/images/post/doze_2.jpg"/>  
+<img src="/assets/images/post/launch_mode.png"/>  
 
 此图就是保存了activitY所在的栈的情况，按返回键的时候，会首先依次移除掉activitY所在的栈的activity，然后才是activity2的
 
